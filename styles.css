@@ -2,6 +2,15 @@
     background-color: lightblue;
 }
 
+#title {
+    font-family: Arial, sans-serif;
+    font-size: 60px;
+    font-weight: bold;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
 .dishintro {
     text-align: center;
 }
@@ -16,11 +25,17 @@ h1 {
     width: 400px;
 }
 
-.ingredients, .ingredients h2, .ingredients ul, .ingredients li{
+.ingredients,
+.ingredients h2,
+.ingredients ul,
+.ingredients li {
     background-color: rgb(254, 254, 204);
     text-align: center;
 }
 
-.steps, .steps h2, .steps ol, .steps li {
+.steps,
+.steps h2,
+.steps ol,
+.steps li {
     background-color: white;
 }
