@@ -1,3 +1,26 @@
 * {
-    background-color: lightgray;
+    background-color: lightblue;
+}
+
+.dishintro {
+    text-align: center;
+}
+
+h1 {
+    font-family: Helvetica, sans-serif;
+    font-size: 40px;
+}
+
+.dishimage {
+    height: auto;
+    width: 400px;
+}
+
+.ingredients, .ingredients h2, .ingredients ul, .ingredients li{
+    background-color: rgb(254, 254, 204);
+    text-align: center;
+}
+
+.steps, .steps h2, .steps ol, .steps li {
+    background-color: white;
 }
